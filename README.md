@@ -27,10 +27,19 @@ public class NicoNicoNi-LYF (){
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
+## **最常访问**
+
+- [仓库容量](https://github.com/settings/repositories)
+- [博客_短域名](https://niconicoli.me)
+- [博客](https://niconiconi-lyf.github.io)
+- [✏️✏️Java软件工程师简历](https://github.com/JoeyBling/cv)
+
+
 ## **GitHub Stats**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicoNicoNi-LYF&theme=radical&show_icons=true) 
 ![NicoNicoNi-LYF](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoNicoNi-LYF&hide=html&layout=compact&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NicoNicoNi-LYF&theme=monokai)
+
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
