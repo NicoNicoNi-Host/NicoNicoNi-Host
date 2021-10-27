@@ -11,8 +11,7 @@ public class NicoNicoNi-LYF (){
 }
 ```
 
-## **技术栈 | Tech Stack:**  
-
+## **Tech Stack:**  
 
 - 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
@@ -31,7 +30,6 @@ public class NicoNicoNi-LYF (){
 ## **GitHub Stats**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicoNicoNi-LYF&theme=radical&show_icons=true) 
-
 ![NicoNicoNi-LYF](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoNicoNi-LYF&hide=html&layout=compact&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NicoNicoNi-LYF&theme=monokai)
 
