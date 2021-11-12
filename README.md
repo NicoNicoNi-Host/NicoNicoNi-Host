@@ -1,8 +1,10 @@
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> NicoNicoNi-LYF  <img alt="GitHub followers" src="https://img.shields.io/github/followers/NicoNicoNi-LYF?style=social" />
+
 [^_^]:
     commentted-out contents
     should be shift to right by four spaces (`>>`).
     几种有趣markdown的注释方法:https://www.jianshu.com/p/9be87e7e15bf
+    GIF图床链接:https://niconicoli.com/imageHost/img2/202111122126603.gif
     
     
 <img align="right" width="300" src="https://i.imgur.com/ugWb6BU.gif" />
