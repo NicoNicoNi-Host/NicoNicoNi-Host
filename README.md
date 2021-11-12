@@ -7,7 +7,7 @@ public class NicoNicoNi-LYF (){
     var e = "Programmer Developer";
  
     var langs = "ALGUMAS LINGUAGENS";
-    String[] l = new String[5] {"JAVA", "C", "JavaScript", "Kotlin", "Python", "Linux"};
+    String[] l = new String[6] {"JAVA", "C", "JavaScript", "Kotlin", "Python", "Linux"};
 }
 ```
 
