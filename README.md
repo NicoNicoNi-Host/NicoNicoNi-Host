@@ -4,7 +4,9 @@
     commentted-out contents
     should be shift to right by four spaces (`>>`).
     几种有趣markdown的注释方法:https://www.jianshu.com/p/9be87e7e15bf
-    GIF图床链接:https://niconicoli.com/imageHost/img2/202111122126603.gif
+    GIF图床链接:
+    https://raw.githubusercontent.com/NicoNicoNi-LYF/imageHost/master/img2/202111122126603.gif
+    https://niconicoli.com/imageHost/img2/202111122126603.gif
     
     
 <img align="right" width="300" src="https://i.imgur.com/ugWb6BU.gif" />
