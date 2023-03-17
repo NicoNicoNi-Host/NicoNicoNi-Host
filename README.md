@@ -39,9 +39,6 @@ public class NicoNicoNi-Host (){
 ## **最常访问**
 
 - [仓库容量](https://github.com/settings/repositories)
-- [博客_短域名com](https://niconicoli.com)
-- [博客_短域名me](https://niconicoli.me)
-- [博客](https://niconiconi-host.github.io)
 - [✏️✏️Java软件工程师简历](https://github.com/JoeyBling/cv)
 
 
